@@ -23,8 +23,8 @@ import 'token.dart';
 ///   void main() async {
 ///     await LineNotify.from(
 ///       token: Token.from(
-///         value: 'Your Line Notify Token'))
-///     .send(message: 'Message you want to send');
+///         value: 'Set your Line Notify Token here'))
+///     .send(message: 'Set message you want to send here');
 ///   }
 /// }
 ///
@@ -35,8 +35,8 @@ import 'token.dart';
 ///   void main() async {
 ///     final HttpResponse response = await LineNotify.from(
 ///       token: Token.from(
-///         value: 'Your Line Notify Token'))
-///     .send(message: 'Message you want to send');
+///         value: 'Set your Line Notify Token here'))
+///     .send(message: 'Set message you want to send here');
 ///
 ///     print(response.statusCode); // => 200
 ///     print(response.body); // => {status: 200, message: ok}

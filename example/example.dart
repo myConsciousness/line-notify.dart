@@ -5,11 +5,11 @@
 import 'package:line_notify/line_notify.dart';
 
 /// The class that demonstrates the [LineNotify].
-class DemoPomodoro {
+class DemoLineNotify {
   void main() async {
     final HttpResponse response = await LineNotify.from(
-            token: Token.from(value: 'Your Line Notify Token'))
-        .send(message: 'The message you want to send');
+            token: Token.from(value: 'Set your Line Notify Token here'))
+        .send(message: 'Set the message you want to send here');
 
     print(response.statusCode); // => 200
     print(response.body); // {status: 200, message: ok}
