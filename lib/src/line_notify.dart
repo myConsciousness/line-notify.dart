@@ -17,7 +17,7 @@ import 'token.dart';
 /// ### How To Use
 ///
 /// ```dart
-/// import 'package:line_notify/line_notify.dart';
+/// import 'package:line_notify_d/line_notify.dart';
 ///
 /// class DemoLineNotify {
 ///   void main() async {
@@ -29,7 +29,7 @@ import 'token.dart';
 /// }
 ///
 /// ```dart
-/// import 'package:line_notify/line_notify.dart';
+/// import 'package:line_notify_d/line_notify.dart';
 ///
 /// class DemoLineNotify {
 ///   void main() async {

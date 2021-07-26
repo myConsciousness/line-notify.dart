@@ -34,7 +34,7 @@ First, you need to get a token to authorize with the Line Notify API from the of
 Basically, you can use a `LineNotify` in the following format.
 
 ```dart
-import 'package:line_notify/line_notify.dart';
+import 'package:line_notify_d/line_notify.dart';
 
 /// The class that demonstrates the [LineNotify].
 class DemoLineNotify {
