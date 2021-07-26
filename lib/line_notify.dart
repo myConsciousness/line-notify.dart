@@ -2,7 +2,7 @@
 // Use of this source code is governed by a
 // BSD-style license that can be found in the LICENSE file.
 
-library line_notify;
+library line_notify_d;
 
 export 'src/token.dart' show Token;
 export 'src/line_notify.dart' show LineNotify;

@@ -3,7 +3,7 @@
 // BSD-style license that can be found in the LICENSE file.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:line_notify/line_notify.dart';
+import 'package:line_notify_d/line_notify.dart';
 
 /// The test class for [LineNotify].
 void main() {

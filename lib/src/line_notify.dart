@@ -4,7 +4,7 @@
 
 import 'dart:convert';
 import 'package:http/http.dart';
-import 'package:line_notify/src/http_response.dart';
+import 'http_response.dart';
 import 'token.dart';
 
 /// The class that wraps the ***Line Notify API***.

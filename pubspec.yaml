@@ -1,7 +1,7 @@
-name: line_notify
-description: This is a Line Notify binding library for the Dart language licensed under BSD 3-Clause.
+name: line_notify_d
+description: This is a Line Notify API wrapping library for the Dart language licensed under BSD 3-Clause.
 version: 0.0.1
-homepage: https://github.com/myConsciousness/pomodoro4d
+homepage: https://github.com/myConsciousness/line-notify-d
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
