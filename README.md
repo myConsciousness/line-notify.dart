@@ -27,7 +27,7 @@
 
 ### 1.3.1. Get the token
 
-First, you need to issue a token to authorize with the Line Notify API from the official [Line Notify website](https://notify-bot.line.me/en/).
+First, you need to get a token to authorize with the Line Notify API from the official [Line Notify website](https://notify-bot.line.me/en/).
 
 ### 1.3.2. Implement the LineNotify
 
