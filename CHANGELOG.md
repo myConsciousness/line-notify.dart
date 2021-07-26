@@ -1,3 +1,7 @@
+## 0.0.3
+
+- Fixed some internal bugs.
+
 ## 0.0.2
 
 - Fixed some internal bugs.
