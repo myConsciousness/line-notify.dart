@@ -21,18 +21,6 @@ import 'token.dart';
 ///
 /// class DemoLineNotify {
 ///   void main() async {
-///     await LineNotify.from(
-///       token: Token.from(
-///         value: 'Set your Line Notify Token here'))
-///     .send(message: 'Set message you want to send here');
-///   }
-/// }
-///
-/// ```dart
-/// import 'package:line_notify_d/line_notify_d.dart';
-///
-/// class DemoLineNotify {
-///   void main() async {
 ///     final HttpResponse response = await LineNotify.from(
 ///       token: Token.from(
 ///         value: 'Set your Line Notify Token here'))
