@@ -1,6 +1,6 @@
 name: line_notify_d
 description: This is a Line Notify API wrapping library for the Dart language licensed under BSD 3-Clause.
-version: 0.0.3
+version: 1.0.0
 homepage: https://github.com/myConsciousness/line-notify-d
 
 environment:
