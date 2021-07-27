@@ -1,3 +1,7 @@
+## 1.0.0
+
+- Official release.
+
 ## 0.0.3
 
 - Fixed some internal bugs.
