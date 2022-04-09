@@ -1,15 +1,21 @@
-## 1.0.0
+# Release Note
+
+## v2.0.0
+
+- Remade from `LineNotifyD`.
+
+## v1.0.0
 
 - Official release.
 
-## 0.0.3
+## v0.0.3
 
 - Fixed some internal bugs.
 
-## 0.0.2
+## v0.0.2
 
 - Fixed some internal bugs.
 
-## 0.0.1
+## v0.0.1
 
 - Initial Release.
