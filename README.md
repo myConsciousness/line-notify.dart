@@ -1,5 +1,5 @@
-[![pub package](https://img.shields.io/pub/v/line-notify.svg?logo=dart&logoColor=00b9fc)](https://pub.dartlang.org/packages/line-notify)
-[![Dart SDK Version](https://badgen.net/pub/sdk-version/line-notify)](https://pub.dev/packages/line-notify/)
+[![pub package](https://img.shields.io/pub/v/line_notify.svg?logo=dart&logoColor=00b9fc)](https://pub.dartlang.org/packages/line_notify)
+[![Dart SDK Version](https://badgen.net/pub/sdk-version/line_notify)](https://pub.dev/packages/line_notify/)
 
 # 1. About
 
@@ -44,6 +44,6 @@ This library was designed and implemented by **_Kato Shinya_**.
 
 - [Creator Profile](https://github.com/myConsciousness)
 - [License](https://github.com/myConsciousness/line-notify.dart/blob/main/LICENSE)
-- [API Document](https://pub.dev/documentation/line-notify/latest/line-notify/line-notify-library.html)
+- [API Document](https://pub.dev/documentation/line_notify/latest/line_notify/line_notify-library.html)
 - [Release Note](https://github.com/myConsciousness/line-notify.dart/releases)
 - [Bug Report](https://github.com/myConsciousness/line-notify.dart/issues)

@@ -1,5 +1,9 @@
 # Release Note
 
+## v2.0.1
+
+- Fixed `README.md`.
+
 ## v2.0.0
 
 - Remade from `LineNotifyD`.
